@@ -1,7 +1,5 @@
-<!doctype html>
 <html lang="en">
 <head>
-    <title>AndDeathShall</title>
 </head>
 <body>
     <h1>And Death Shall Have No Dominion</h1>
